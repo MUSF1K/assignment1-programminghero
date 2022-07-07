@@ -1,0 +1,194 @@
+body {
+
+    font-family: 'Poppins', sans-serif;
+
+    margin: 0;
+}
+
+h1 {
+
+    font-size: 50px;
+}
+
+
+.flexible-container {
+
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.banner {
+
+
+    background-image: url(images/donation13.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: blur(4px);
+
+
+
+}
+
+
+
+
+.white-text {
+
+
+    color: white;
+}
+
+.text-center {
+
+
+    text-align: center;
+}
+
+.padding1 {
+
+
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+.link-button {
+
+
+
+    text-decoration: none;
+    background-color: greenyellow;
+    color: darkblue;
+    padding: 10px 10px;
+    border-radius: 30%;
+
+
+
+
+}
+
+#color2 {
+
+
+    border-left: 7px solid black;
+}
+
+.section-3-item {
+
+
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-left: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px darkgrey;
+
+
+}
+
+.section-3-1-item {
+
+
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-left: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px darkgrey;
+    background-color: #EDF5F6;
+
+
+}
+
+
+.section-3-2-item {
+
+
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-left: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px darkgrey;
+    background-color: #FFEEEE;
+
+
+}
+
+.section-3-3-item {
+
+
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-left: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px darkgrey;
+    background-color: #FFF4D6;
+
+
+}
+
+
+.quarter-width {
+
+
+    width: 25%;
+    padding-left: 2%;
+
+}
+
+.half-width {
+
+
+    width: 50%;
+    padding-left: 8%;
+
+}
+
+
+.sub {
+
+
+
+
+
+    background-color: greenyellow;
+    width: 100%;
+    padding: 25px;
+    border: 5px solid black;
+    margin: 25px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+.footer {
+
+
+
+
+
+    background-color: black;
+    width: 100%;
+    padding: 25px;
+    border: 5px solid greenyellow;
+    margin: 25px;
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+
+.button {
+    border-radius: 2px;
+}
