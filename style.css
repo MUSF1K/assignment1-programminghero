@@ -2,6 +2,7 @@ body {
 
     font-family: 'Poppins', sans-serif;
 
+
     margin: 0;
 }
 
@@ -43,6 +44,13 @@ h1 {
 
 
     text-align: center;
+
+}
+
+
+h2 {
+
+    padding: 10px;
 }
 
 .padding1 {
@@ -52,14 +60,57 @@ h1 {
     padding-right: 10px;
 }
 
+.dbutton {
+
+
+
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 20px;
+
+    margin: 20px 20%;
+
+
+}
+
+.dbutton-button {
+
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 150px;
+    width: 150px;
+    border: 0px solid green;
+    font-size: 20px;
+
+}
+
+
+
+.bangla {
+
+
+
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 150px;
+    width: 150px;
+    font-size: 20px;
+
+    border: 5px solid #FF8484;
+
+    color: #FF8484;
+
+    background-color: #FFEEEE;
+}
+
 
 .link-button {
 
 
 
     text-decoration: none;
-    background-color: greenyellow;
-    color: darkblue;
+    background-color: green;
+    color: white;
     padding: 10px 10px;
     border-radius: 30%;
 
@@ -71,7 +122,7 @@ h1 {
 #color2 {
 
 
-    border-left: 7px solid black;
+    border-left: 7px solid green;
 }
 
 .section-3-item {
@@ -162,13 +213,38 @@ h1 {
 
 
 
-    background-color: greenyellow;
-    width: 100%;
+    background-color: #FFF4D6;
+
     padding: 25px;
     border: 5px solid black;
-    margin: 25px;
+    margin: 0px 25%;
+    height: 50px;
     border-radius: 15px;
     text-align: center;
+
+}
+
+.sub input {
+
+
+    text-align: center;
+
+    background-color: #D9D9D9;
+    font-size: 20px;
+    text-align: left;
+    height: 30px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.sub button {
+
+    font-size: 20x;
+    color: #EDF5F6;
+    height: 40px;
+    background-color: #FF5959;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
 
 }
 
@@ -181,13 +257,21 @@ h1 {
     background-color: black;
     width: 100%;
     padding: 25px;
-    border: 5px solid greenyellow;
+    border: 5px solid green;
     margin: 25px;
     border-radius: 15px;
     text-align: center;
 
 }
 
+
+footer h1 {
+
+
+    font-family: lobster;
+
+    color: #F85657;
+}
 
 .button {
     border-radius: 2px;
